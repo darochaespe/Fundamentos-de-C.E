@@ -52,7 +52,7 @@ Para los ejercicios sobre corriente, voltajes y resistencia se utilizan las fór
 
 4. Video
 
-- 
+- https://youtu.be/k0nHWPQJHXc
 
 6. Conclusiones
 
