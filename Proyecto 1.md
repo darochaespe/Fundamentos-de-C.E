@@ -8,3 +8,7 @@ Proyecto 1
 ![Deber 3  (1)](https://user-images.githubusercontent.com/117742027/204369428-3531b7f5-cec4-4155-b2ba-5b52a062bb09.jpeg)
 
 ![Deber 3 ](https://user-images.githubusercontent.com/117742027/204369445-7d7cd125-c5a8-40de-a23b-50db424e5210.jpeg)
+
+3.- Diagrama 
+
+![image](https://user-images.githubusercontent.com/117742027/204372143-c1f0cfe8-31f1-4e3b-9b82-2a04ab2070ba.png)
