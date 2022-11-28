@@ -1,6 +1,9 @@
+                                                                             Universidad de las Fuerzas Armadas 
+                                                                                          (ESPE)
+                                                                                        Proyecto #1
 Integrantes : Kail Terán , Dilan Rocha
 
-Proyecto 1
+NRC : 10067
 
 1. Objetivos
 
@@ -13,4 +16,5 @@ Proyecto 1
 3.- Diagrama 
 
 Diagrama de el medidor de agua
+
 ![image](https://user-images.githubusercontent.com/117742027/204372143-c1f0cfe8-31f1-4e3b-9b82-2a04ab2070ba.png)
