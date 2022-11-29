@@ -30,7 +30,7 @@ Diagrama de el medidor de agua
 
 ![image](https://user-images.githubusercontent.com/117742027/204372143-c1f0cfe8-31f1-4e3b-9b82-2a04ab2070ba.png)
 
-El circuito consta de 3 resistencias(R2,R3,R4), conectadas en paralelo hacia una fuente de voltaje, tres de ellas estarán asociadas individualmente a un led y un transistor mientras que solo una de ellas(R1) será la conexión en común con todas. Cada base de los transistores deberá estar conectada al recipiente de agua.
+El circuito consta de 3 resistencias(R2,R3,R4), conectadas en paralelo hacia una fuente de voltaje, que estarán asociadas individualmente a un led y un transistor mientras que la resistencia R1 será la conexión en común con todas. Cada base de los transistores deberá estar conectada al recipiente de agua.
 
 A medida que el nivel de agua en elrecipiente aumente y esta llegue a tocar las extensiones de los transistores, estos permitirán el paso de la corriente de la resistencia R1 a tavés de ellos, permitiendo cerrar el circuito y prendiendo los leds según el nivel de agua.
 
