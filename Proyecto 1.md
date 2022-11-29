@@ -24,11 +24,19 @@ NRC : 10067
 
 ![Deber 3 ](https://user-images.githubusercontent.com/117742027/204369445-7d7cd125-c5a8-40de-a23b-50db424e5210.jpeg)
 
+![Deber 3  (2)](https://user-images.githubusercontent.com/117742027/204422877-ddb1384e-2738-4f53-bb7a-7e212f46d826.jpeg)
+
+
 3. Explicaión del procedimiento 
 
 Diagrama de el medidor de agua
 
 ![image](https://user-images.githubusercontent.com/117742027/204372143-c1f0cfe8-31f1-4e3b-9b82-2a04ab2070ba.png)
+
+![proyecto](https://user-images.githubusercontent.com/117742027/204422946-4cc8724f-1cfc-4aff-8d28-868eaa2d12b2.jpeg)
+
+
+
 
 El circuito consta de 3 resistencias(R2,R3,R4), conectadas en paralelo hacia una fuente de voltaje, que estarán asociadas individualmente a un led y un transistor mientras que la resistencia R1 será la conexión en común con todas. Cada base de los transistores deberá estar conectada al recipiente de agua.
 
@@ -55,7 +63,7 @@ El proyecto tiene aplicaciones en la industria tales como medir la cantidad de b
 
 - Floyd, T. L. (2007). Principios de circuitos eléctricos (8a. Ed.). Pearson Educación. 
 - Alexander, C. K., &amp; O., S. M. N. (2002). Circuitos eléctricos. McGraw Hill Interamericana. 
-- 
+- Circuitos electronicos. (2016, 02 septiembre). Fundamentos de Los Circuitos Eléctricos. https://fundamentoscircuitoselectricos.wordpress.com/circuitos-electronicos/
 
 
 
