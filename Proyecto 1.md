@@ -1,6 +1,6 @@
-                                                                             Universidad de las Fuerzas Armadas 
-                                                                                          (ESPE)
-                                                                                        Proyecto #1
+                                                                          Universidad de las Fuerzas Armadas 
+                                                                                      (ESPE)
+                                                                                    Proyecto #1
 Integrantes : Kail Terán , Dilan Rocha
 
 NRC : 10067
