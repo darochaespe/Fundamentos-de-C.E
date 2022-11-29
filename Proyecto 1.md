@@ -10,7 +10,7 @@ NRC : 10067
   Generales
   - Desarrollar un proyecto para la medicion de niveles de agua con los conceptos aprendidos durante la unidad 1.
   - Analizar los componentes del poyecto y su funcionamiento.
-  - Estudiar el comportamiento de las unidades fundamentales de los circuitos eléctricos.
+  - Proyectar las aplicaciones del proyecto dentro de la industria.
 
   Específicos
   
@@ -45,7 +45,7 @@ De igual manera si se reduce el nivel de agua, esta dejará de tocar las conexio
 
 El transistor funciona como un interruptor dentro del circuito, permitiendo el paso de la corriente a través de el cuando la base se encuentra en contacto con el agua.
 
-La resistencia R1 únicamente envía la corriente positiva desde la fuente de voltaje hacia el resto de resistencia conectadas en serie.
+La resistencia R1 únicamente envía la corriente positiva desde la fuente de voltaje hacia el resto de resistencia conectadas en paralelo.
 
 Un detector de niveles de agua puede utilizarse con cualquier otro fluido que sea capaz de conducir corriente eléctrica.
 
