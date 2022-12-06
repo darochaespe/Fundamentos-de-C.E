@@ -14,9 +14,9 @@ NRC : 10067
 
   Específicos
   
-  - Constriur un detector de nivel de agua dentor de un recipiente, en una tabla de conexiones utilizando resistores, leds y transistores.
+  - Analizar las conexiones de los diodos y las resistencias en los circuitos.
   - Examinar la corriente, el voltaje y la resistencia presente en el proyecto.
-  - Explicar el funcionamiento de cada componente eléctrico dentro del circuito.
+  - Explicar el funcionamiento de los transistores dentro del circuito.
 
 2. Marco Teorico
 
