@@ -30,4 +30,4 @@ Marco Teoríco
  Materiales
  
  
- ![image](https://user-images.githubusercontent.com/86561660/212776274-a2315794-98ac-4ab7-9965-b9f4b8af37c0.png)
+![image](https://user-images.githubusercontent.com/86561660/212776321-32cad20c-2e27-4065-b724-11f3417960f1.png)
