@@ -20,10 +20,14 @@ Entender el funcionamiento del conmutador
 Diferenciar que tipo de circuito es el que se obtiene al armar el circuito de 3 vias.
 
 Marco Teoríco 
- 
- 
+
  
 ![casas](https://user-images.githubusercontent.com/86561660/212775987-2af129d0-6b60-4993-ba4b-17b826c1f683.png)
 
  
  ![image](https://user-images.githubusercontent.com/86561660/212775258-98c93f92-2c0c-4ef2-989b-722e402fa834.png)
+
+ Materiales
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/86561660/212776274-a2315794-98ac-4ab7-9965-b9f4b8af37c0.png)
