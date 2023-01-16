@@ -1,6 +1,6 @@
                                                                          Universidad de las Fuerzas Armadas 
                                                                                       (ESPE)
-                                                                                    Proyecto #1
+                                                                                    Proyecto #2
 Integrantes : Joseph Almachi, Kail Terán, Dilan Rocha
 
 NRC : 10067
@@ -23,11 +23,7 @@ Marco Teoríco
  
  
  
- 
- ![casa](https://user-images.githubusercontent.com/86561660/212775860-7cf0c57a-d200-4ec1-b099-d6360875013c.png)
-
- 
- ![cable](https://user-images.githubusercontent.com/86561660/212775889-d0003d26-dc0a-426f-b10d-803a342e20f2.png)
+![casas](https://user-images.githubusercontent.com/86561660/212775987-2af129d0-6b60-4993-ba4b-17b826c1f683.png)
 
  
  ![image](https://user-images.githubusercontent.com/86561660/212775258-98c93f92-2c0c-4ef2-989b-722e402fa834.png)
