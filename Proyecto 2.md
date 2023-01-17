@@ -10,9 +10,8 @@ NRC : 10067
 
 # Generales
 
-Construir un circuito de 3 vías.
+Construir un circuito de 3 vías; analizando sus conexiones
 
-Analizar las conexiones del circuito.
   
 ##  Objetivos Especificos
 
