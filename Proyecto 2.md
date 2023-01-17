@@ -36,6 +36,7 @@ Establecer las aplicaciones de un circuito 3 vías.
 
  # Materiales
  
+ 
 1.Foco
 
 2.Boquilla de foco 
@@ -45,6 +46,7 @@ Establecer las aplicaciones de un circuito 3 vías.
 4.Interumpor 3 vias 
 
 5. Enchufe tipo A 
+
 
 # Procedimiento 
 
@@ -65,7 +67,9 @@ Establecer las aplicaciones de un circuito 3 vías.
 
 6. Ahora bien una vez realizado todo este proceso, procedemos a conectar el enchufe y verificamos si funciona el circuito.
 
+
 7. Probamos prendiendo y apagando de diferentes sitios 
+
 
 # Conclusiones
 
