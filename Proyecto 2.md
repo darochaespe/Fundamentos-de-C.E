@@ -10,17 +10,15 @@ NRC : 10067
 
 # Generales
   
-Construir un circuito 3 vías.
-
-Analizar el funcionamiento del circuito.
+Analizar y realizar un circuito 3 vias donde se refleje el analisis del funcionamineto del circuito.
 
 ##  Objetivos Especificos
 
-Plantear el diagrama del circuito de 3 vias.
+Plantear el diagrama del circuito de 3 vias y analizar la estructura del mismo.
 
-Identificar las relaciones entre la conexión. 
+Entender el funcionamiento del conmutador 
 
-Establecer las aplicaciones de un circuito 3 vías.
+Diferenciar que tipo de circuito es el que se obtiene al armar el circuito de 3 vias.
 
 # Marco Teoríco 
 
@@ -28,14 +26,9 @@ Establecer las aplicaciones de un circuito 3 vías.
 ![casas](https://user-images.githubusercontent.com/86561660/212775987-2af129d0-6b60-4993-ba4b-17b826c1f683.png)
 
  
-![image](https://user-images.githubusercontent.com/86561660/212775258-98c93f92-2c0c-4ef2-989b-722e402fa834.png)
-
- 
-![image](https://user-images.githubusercontent.com/117613738/212794054-f5627691-2efa-49dd-ac4a-aa15fbb79eda.png)
-
+ ![image](https://user-images.githubusercontent.com/86561660/212775258-98c93f92-2c0c-4ef2-989b-722e402fa834.png)
 
  # Materiales
- 
  
 1.Foco
 
@@ -46,7 +39,6 @@ Establecer las aplicaciones de un circuito 3 vías.
 4.Interumpor 3 vias 
 
 5. Enchufe tipo A 
-
 
 # Procedimiento 
 
@@ -67,21 +59,19 @@ Establecer las aplicaciones de un circuito 3 vías.
 
 6. Ahora bien una vez realizado todo este proceso, procedemos a conectar el enchufe y verificamos si funciona el circuito.
 
-
 7. Probamos prendiendo y apagando de diferentes sitios 
 
-
-# Conclusiones
-
-Dentro de la conexión, la corriente solamente podrá completar su camino si los dos interruptores se encuentran en posiciones opuestas.
-
-El tipo de conexión entre los interruptores es en serie ya que ambos comparte dos conexiones entre si y al desconetar uno, el otro no deja de funcionar.
-
-Sus principales aplicaciones son domésticas, es decir, se usa para realizar conexiones de luz entre ciertas distancias para facilitar el control de la energía lumínica dentro de un hogar.
+![image](https://user-images.githubusercontent.com/117742027/212795741-c37a4ff8-c9c9-4b2e-a6e4-46155857eda0.png)
 
 # Video
 
 https://youtu.be/UxRM-GLrGFw
+
+# Conclusiones.-
+
+1.-Una aplicacion del los circuitos de 3 vias es para un lugar muy grande o con varias salidas poder controlar la luz desde mas de 1 lugar evitando asi tener que regresar a apagar o prender la luz nuevanmente desde un solo interruptor sino simplemente haciendo uso de otro interruptor ubicado en una zona estrategica poder controlar la luz.
+2.- Para realizar un circuito de 3 vias es necesario utilizar un interruptor de 3 vias o tambien conocido como conmutado.
+3.- En caso de que las conexiones de los extremos de los interruptores conmutados este cruzada esto hara que el un interruptor funcione como paso de energia para el otro solamente y no como un circuito 3 vias.
 
 # Bibliografia 
 
