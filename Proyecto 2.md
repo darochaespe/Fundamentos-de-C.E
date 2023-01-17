@@ -28,7 +28,7 @@ Diferenciar que tipo de circuito es el que se obtiene al armar el circuito de 3 
  
  ![image](https://user-images.githubusercontent.com/86561660/212775258-98c93f92-2c0c-4ef2-989b-722e402fa834.png)
 
- #Materiales
+ # Materiales
  
 1.Foco
 
@@ -60,6 +60,12 @@ Diferenciar que tipo de circuito es el que se obtiene al armar el circuito de 3 
 6. Ahora bien una vez realizado todo este proceso, procedemos a conectar el enchufe y verificamos si funciona el circuito.
 
 7. Probamos prendiendo y apagando de diferentes sitios 
- 
+# Video
+
+https://youtu.be/UxRM-GLrGFw
+
+# Bibliografia 
+
+Casa, E. en [@ElectricistaenCasa]. (2020, August 28). Circuito Escalera, 924, Vaiven, 3 Vias, pasó a paso. Youtube. https://www.youtube.com/watch?v=q3oUc9_qnyc
  
 
