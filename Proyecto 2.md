@@ -70,7 +70,9 @@ https://youtu.be/UxRM-GLrGFw
 # Conclusiones.-
 
 1.-Una aplicacion del los circuitos de 3 vias es para un lugar muy grande o con varias salidas poder controlar la luz desde mas de 1 lugar evitando asi tener que regresar a apagar o prender la luz nuevanmente desde un solo interruptor sino simplemente haciendo uso de otro interruptor ubicado en una zona estrategica poder controlar la luz.
+
 2.- Para realizar un circuito de 3 vias es necesario utilizar un interruptor de 3 vias o tambien conocido como conmutado.
+
 3.- En caso de que las conexiones de los extremos de los interruptores conmutados este cruzada esto hara que el un interruptor funcione como paso de energia para el otro solamente y no como un circuito 3 vias.
 
 # Bibliografia 
